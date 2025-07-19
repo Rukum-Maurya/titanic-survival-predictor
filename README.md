@@ -1,3 +1,4 @@
+
 # Titanic Survival Predictor 🚢
 
 This machine learning project uses logistic regression to predict passenger survival on the Titanic.
@@ -19,4 +20,8 @@ Achieved ~81.56% accuracy on test data using logistic regression.
 
 ## 🔗 Dataset Source
 Using Seaborn's built-in Titanic dataset
+
+
+# titanic-survival-predictor
+Predict survival on the Titanic using machine learning. Part of my ML project journey.
 
