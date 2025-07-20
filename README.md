@@ -22,6 +22,5 @@ Achieved ~81.56% accuracy on test data using logistic regression.
 Using Seaborn's built-in Titanic dataset
 
 
-# titanic-survival-predictor
-Predict survival on the Titanic using machine learning. Part of my ML project journey.
+
 
