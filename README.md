@@ -21,6 +21,11 @@ Achieved ~81.56% accuracy on test data using logistic regression.
 ## 🔗 Dataset Source
 Using Seaborn's built-in Titanic dataset
 
+## 🌐 Live Demo
+
+👉 [Click here to try the Titanic Survival Predictor Web App](https://rukum-maurya-titanic-survival-predictor-app-3s4sua.streamlit.app/)
+
+
 
 
 
